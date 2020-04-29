@@ -1,0 +1,20 @@
+
+.psv-navbar{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+}
+.button{
+    width: 6px;
+    height: 6px;
+    margin: 0 10px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.4);
+    border-radius: 50%;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
