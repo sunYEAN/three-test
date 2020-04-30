@@ -114,8 +114,6 @@ const bufferCircle = createBufferCircle();
 const bufferLache = createBufferLathe();
 
 
-pointLight.position.set(0, 500, 0);
-
 scene.add(line);
 // scene.add(plane);
 scene.add(box);

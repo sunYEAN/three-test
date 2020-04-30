@@ -1,12 +1,12 @@
 {
-  "name": "three",
+  "name": "three-js",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
   "dependencies": {
     "browser": "^3.0.0",
     "photo-sphere-viewer": "^4.0.1",
-    "three.js": "^0.77.1"
+    "three": "^0.115.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
