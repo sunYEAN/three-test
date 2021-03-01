@@ -6,7 +6,7 @@
   "dependencies": {
     "browser": "^3.0.0",
     "photo-sphere-viewer": "^4.0.1",
-    "three": "^0.115.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
